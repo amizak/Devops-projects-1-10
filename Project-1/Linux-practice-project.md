@@ -5,3 +5,4 @@
 ## Note: All Linux commands are case-sensitive.
 ## Task 1: File manipulation
 * sudo Command:
+<img width="457" alt="One" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/618d776e-034e-48ea-bfe8-804c775a278a">
