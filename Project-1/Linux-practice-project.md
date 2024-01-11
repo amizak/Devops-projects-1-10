@@ -18,10 +18,50 @@
 ##### Command: ls
 ###### The ls command lists files and directories within a system. Running it without a flag will show the current working directory's content. To see other directories' content, i used ls followed by the desired path.
 
-###### using ls with the option -R lists all the files in the subdirectories.
+###### Using ls with the option -R lists all the files in the subdirectories.
 
-###### using ls with  the option -a shows hidden files in addition to the visible ones
+###### Using ls with  the option -a shows hidden files in addition to the visible ones
 
-###### using ls with the option -lh shows the file size in easily readable formats, such as KB,MB,GB and TB
+###### Using ls with the option -lh shows the file size in easily readable formats, such as KB,MB,GB and TB
 
-#####
+##### Command: cat
+###### The Concatenate command is used to list combine or merge and write file content to the standard output. i ran this command followed by the file i wanted to display on the screen.
+
+###### I ran it to merge two files and store the output in another file.
+
+###### I ran it as tac to display the content of the file in reverse order
+
+##### Command: cp
+###### The cp command is used to copy files or directories and their contents. I ran the cp command followed by the destination directory to copy the file to the directory.
+
+###### I ran it to copy the content of one file to another in the same directory.
+
+###### I ran it to copy an entire directory using the -R flag before typing the source directory, followed by the destination directory.
+
+##### Command: mv
+###### The primary use of the mv command is to move and rename files and directories. Additionally, it doesn't produce an output upon execution. The mv command can also be used to rename a file.
+###### I ran it followed by the file name and destination directory.
+
+###### I ran it to rename a file by running th ecommand followed by the old_file_name and the new_file_name.
+
+##### Command: mkdir
+###### This command is used to create one or multiple directories at once and set permissions for each of them. The user executing this command must have priviledge to make a new folder in the parent directory, or they may recieve a permission denied error.
+###### I ran the command mkdir followed by the name of the new directory i created.
+
+###### To create a new directory inside the one that is already created. I ran the mkdir with the old_directory/new_directory.
+
+###### To create a directory between two existing folders. I ran the mkdir command followed by the option -p in the format mkdir -p Dir_1/Dir_2/Dir_3.
+
+###### To create a directory with full read,write, and execute permissions for all users. I ran the mkdir command followed by the option -m in the format mkdir -m777 Directory_name.
+
+##### Command: rmdir
+###### This command is used to permanently delete an empty directory. However, the user running this command should have sudo priviledges in the parent directory.
+###### To delete an empty directory, i ran the rmdir command rmdir followed by the name of the empty directory.
+
+###### To Delete an empty directory and sub_directory. I ran the rmdir command followed by the option -p in the format rmdir -p directory/sub_directory.
+
+##### Command: rm
+###### This command is used to delete files within a directory. However the user running this command has to have write permissions.
+###### To remove a file i ran the rm command followed by the name of the file.
+
+###### To remove multiple files. I ran the rm command followed by the file names.
