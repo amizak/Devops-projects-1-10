@@ -51,6 +51,8 @@
 <img width="730" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/d0dc8bf4-52b6-4e16-9e02-bda96150e0a0">
 
 ###### I ran it to merge two files and store the output in another file.
+<img width="854" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/dd2ea284-3037-4f54-a796-ccf13f73b760">
+
 
 
 
