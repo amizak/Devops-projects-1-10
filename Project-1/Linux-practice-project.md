@@ -34,6 +34,7 @@
 
 ##### Command: cd
 ###### This command was used to change into a directory. To navigate through the linux files and directories, the command cd is used. Depending on your current working directory, it requires either a full path or the directory name. However running this command without an option will take you to the home directory of the current working user and this equivalent to just running the cd command alone, using the cd - moves to your previous directory and cd .. moves you to the parent directory of the current working directory.
+<img width="414" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/1f9d5fba-49c7-4f7c-a851-4bda3c005a63">
 
 
 ##### Command: pwd.
