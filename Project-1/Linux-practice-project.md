@@ -30,7 +30,9 @@
 <img width="851" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/32283451-8bad-47cc-88fa-a07939124821">
 
 
-###### Using ls with the option -lh shows the file size in easily readable formats, such as KB,MB,GB and TB
+###### Using ls with the option -lh shows the file size in easily readable formats, such as KB,MB,GB and TB.
+<img width="436" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/f95fcebb-6901-4d22-a16f-68d7b098aabe">
+
 
 ##### Command: cd
 ###### This command was used to change into a directory. To navigate through the linux files and directories, the command cd is used. Depending on your current working directory, it requires either a full path or the directory name. However running this command without an option will take you to the home directory of the current working user and this equivalent to just running the cd command alone, using the cd - moves to your previous directory and cd .. moves you to the parent directory of the current working directory.
