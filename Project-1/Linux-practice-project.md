@@ -9,6 +9,7 @@
 
 ##### Command: sudo apt upgrade. 
 ###### I ran this command to upgrade the installed packages on my Ubuntu Linux server. This was done to ensure that my system has the latest bugs fixed, security updates and feature improvements of the software.
+
 <img width="457" alt="One" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/1d8a190d-b1f4-4330-b093-b1279407c2ca">
 
 ##### Command: pwd.
@@ -17,6 +18,7 @@
 ###### This command was used to change into a directory. To navigate through the linux files and directories, the command cd is used. Depending on your current working directory, it requires either a full path or the directory name. However running this command without an option will take you to the home folder, using the cd - moves to your previous directory and cd .. moves you one directory up.
 ##### Command: ls
 ###### The ls command lists files and directories within a system. Running it without a flag will show the current working directory's content. To see other directories' content, i used ls followed by the desired path.
+
 
 ###### Using ls with the option -R lists all the files in the subdirectories.
 
