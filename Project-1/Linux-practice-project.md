@@ -4,7 +4,7 @@
 #### A Linux command is a program or utility that runs on the command line interface - a console that interacts with the system via texts and processes.
 ##### Note: All Linux commands are case-sensitive.
 ## File manipulation
-##### Command: sudo apt update.
+#### Command: sudo apt update.
 ###### I ran this command to update the local package database on my system. this help enable information about the latest versions of packages available and that can be upgraded.
 <img width="776" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/eba8a17a-40d5-43bd-b384-ea8cd55d4c3f">
 
