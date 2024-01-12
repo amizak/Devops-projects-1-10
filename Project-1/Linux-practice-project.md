@@ -10,6 +10,8 @@
 
 ##### Command: apt list --upgradable
 ###### I ran this command to list the upgradable packages on my system. it shows the packages for which updated versions are available in the repositories that has been configured.
+<img width="573" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/f6064949-042e-43b6-a101-cd6e7dd9ee10">
+
 
 ##### Command: sudo apt upgrade. 
 ###### I ran this command to upgrade the installed packages on my Ubuntu Linux server. This was done to ensure that my system has the latest bugs fixed, security updates and feature improvements of the software.
