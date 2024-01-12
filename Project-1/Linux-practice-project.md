@@ -8,6 +8,9 @@
 ###### I ran this command to update the local package database on my system. this help enable information about the latest versions of packages available and that can be upgraded.
 <img width="776" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/eba8a17a-40d5-43bd-b384-ea8cd55d4c3f">
 
+##### Command: apt list --upgradable
+###### I ran this command to list the upgradable packages on my system. it shows the packages for which updated versions are available in the repositories that has been configured.
+
 ##### Command: sudo apt upgrade. 
 ###### I ran this command to upgrade the installed packages on my Ubuntu Linux server. This was done to ensure that my system has the latest bugs fixed, security updates and feature improvements of the software.
 
