@@ -59,6 +59,7 @@
 
 ##### Command: cp
 ###### The cp command is used to copy files or directories and their contents. I ran the cp command followed by the destination directory to copy the file to the directory.
+<img width="791" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/07952897-4572-4eab-b59a-0ff520324b2e">
 
 ###### I ran it to copy the content of one file to another in the same directory.
 
