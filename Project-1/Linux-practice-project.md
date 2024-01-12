@@ -41,6 +41,8 @@
 
 ##### Command: pwd.
 ###### Meaning print current working directory, this command was ran to find the path of the current/present working directory.
+<img width="359" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/451c6846-d2b6-4470-ab2c-7b476d73b08c">
+
 ##### Command: cat
 ###### The Concatenate command is used to list combine or merge and write file content to the standard output. i ran this command followed by the file i wanted to display on the screen.
 
