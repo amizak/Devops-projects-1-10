@@ -18,10 +18,6 @@
 
 <img width="457" alt="One" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/1d8a190d-b1f4-4330-b093-b1279407c2ca">
 
-##### Command: pwd.
-###### meaning print current working directory, this command was ran to find the path of the current/present working directory.
-##### Command: cd
-###### This command was used to change into a directory. To navigate through the linux files and directories, the command cd is used. Depending on your current working directory, it requires either a full path or the directory name. However running this command without an option will take you to the home folder, using the cd - moves to your previous directory and cd .. moves you one directory up.
 ##### Command: ls
 ###### The ls command lists files and directories within a system. Running it without a flag will show the current working directory's content. To see other directories' content, i used ls followed by the desired path.
 
@@ -32,6 +28,10 @@
 
 ###### Using ls with the option -lh shows the file size in easily readable formats, such as KB,MB,GB and TB
 
+##### Command: cd
+###### This command was used to change into a directory. To navigate through the linux files and directories, the command cd is used. Depending on your current working directory, it requires either a full path or the directory name. However running this command without an option will take you to the home folder, using the cd - moves to your previous directory and cd .. moves you one directory up.
+##### Command: pwd.
+###### meaning print current working directory, this command was ran to find the path of the current/present working directory.
 ##### Command: cat
 ###### The Concatenate command is used to list combine or merge and write file content to the standard output. i ran this command followed by the file i wanted to display on the screen.
 
