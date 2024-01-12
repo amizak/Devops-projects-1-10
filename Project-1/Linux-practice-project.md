@@ -62,6 +62,8 @@
 <img width="791" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/07952897-4572-4eab-b59a-0ff520324b2e">
 
 ###### I ran it to copy the content of one file to another in the same directory.
+<img width="467" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/31fb5ea6-2aaa-4bf0-9d27-7216e3a014ee">
+
 
 ###### I ran it to copy an entire directory using the -R flag before typing the source directory, followed by the destination directory.
 
