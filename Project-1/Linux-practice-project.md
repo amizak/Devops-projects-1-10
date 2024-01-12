@@ -13,7 +13,7 @@
 <img width="457" alt="One" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/1d8a190d-b1f4-4330-b093-b1279407c2ca">
 
 ##### Command: pwd.
-###### meaning print current working directory, this command was ran to find the path of the current/present workingdirectory.
+###### meaning print current working directory, this command was ran to find the path of the current/present working directory.
 ##### Command: cd
 ###### This command was used to change into a directory. To navigate through the linux files and directories, the command cd is used. Depending on your current working directory, it requires either a full path or the directory name. However running this command without an option will take you to the home folder, using the cd - moves to your previous directory and cd .. moves you one directory up.
 ##### Command: ls
