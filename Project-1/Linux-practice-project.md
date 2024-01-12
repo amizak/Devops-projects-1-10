@@ -24,6 +24,7 @@
 
 
 ###### Using ls with the option -R lists all the files in the subdirectories.
+<img width="722" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/a57b8b57-e5c7-4808-bd9e-42700f0f590b">
 
 ###### Using ls with  the option -a shows hidden files in addition to the visible ones
 
