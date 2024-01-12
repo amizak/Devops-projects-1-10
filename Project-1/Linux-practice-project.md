@@ -2,7 +2,7 @@
 ### Introduction to Linux and Basic Commands 
 ### Pre-requisites: I spinned up an Ec2 instance and my virtual server is Ubuntu
 #### A Linux command is a program or utility that runs on the command line interface - a console that interacts with the system via texts and processes.
-#### Note: All Linux commands are case-sensitive.
+##### Note: All Linux commands are case-sensitive.
 ## File manipulation
 ##### Command: sudo apt update.
 ###### I ran this command to update the local package database on my system. this help enable information about the latest versions of packages available and that can be upgraded.
