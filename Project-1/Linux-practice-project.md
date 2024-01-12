@@ -20,6 +20,7 @@
 
 ##### Command: ls
 ###### The ls command lists files and directories within a system. Running it without a flag will show the current working directory's content. To see other directories' content, i used ls followed by the desired path.
+<img width="350" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/c2f378a8-7999-4b9a-89a1-dc2e1f99ae1f">
 
 
 ###### Using ls with the option -R lists all the files in the subdirectories.
