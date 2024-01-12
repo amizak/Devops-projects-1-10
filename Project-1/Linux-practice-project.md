@@ -47,9 +47,13 @@
 ###### The Concatenate command is used to list combine or merge and write file content to the standard output. i ran this command followed by the file i wanted to display on the screen.
 <img width="742" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/e3a530ac-54ee-4de6-843f-8e8ede69c5c4">
 
+###### I ran it as tac to display the content of the file in reverse order.
+<img width="730" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/d0dc8bf4-52b6-4e16-9e02-bda96150e0a0">
+
 ###### I ran it to merge two files and store the output in another file.
 
-###### I ran it as tac to display the content of the file in reverse order
+
+
 
 ##### Command: cp
 ###### The cp command is used to copy files or directories and their contents. I ran the cp command followed by the destination directory to copy the file to the directory.
