@@ -66,6 +66,7 @@
 
 
 ###### I ran it to copy an entire directory using the -R flag before typing the source directory, followed by the destination directory.
+<img width="574" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/9acb1680-c50a-4b42-8c81-ba3ad82a7471">
 
 ##### Command: mv
 ###### The primary use of the mv command is to move and rename files and directories. Additionally, it doesn't produce an output upon execution. The mv command can also be used to rename a file.
