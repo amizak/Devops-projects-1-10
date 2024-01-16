@@ -109,9 +109,17 @@
 ### Command: find
 ##### This command is used to search for files within a specific directory and perform subsequent operations.
 
+### 
+
 ### Command:grep
 ##### This command is used a word by searching through all the texts in a specific file. Once the grep command finds a match, its print all the lines that contain the specific pattern. This command helps filter through large log files.
 
 
 ### Command: df
-#####
+##### This command is used to report the system's disk space usage, shown in percentage and kilobyte. Adding the argument -h will enable you see the current directory's system disk space usage in a human readable format.
+
+### Command: du
+##### This command allows you check how much space a file or a directory takes up. This allows you identify the part of the system that uses the storage excessively. Adding the flag -s shows you the total size pf a specified folder and -h informs the last modification date of the displayed folders and files.
+
+###
+
