@@ -95,7 +95,23 @@
 ##### To Delete an empty directory and sub_directory. I ran the rmdir command followed by the option -p in the format rmdir -p directory/sub_directory.
 
 ### Command: rm
-##### This command is used to delete files within a directory. However the user running this command has to have write permissions.
+##### This command is used to delete files within a directory. However the user this command has to have write permissions.
 ##### To remove a file i ran the rm command followed by the name of the file.
 
 ##### To remove multiple files. I ran the rm command followed by the file names.
+
+### Command: touch
+##### This command is used to create an empty file if it does not exist. It is also used to update the access and modification timestamps of a file or multiple files.
+
+### Command: locate
+##### This command is used to find the location of a file or directory ib the database. Adding the -i argument will turn off case sensitivity, so you can search for a file even if you do not remember its exact name.
+
+### Command: find
+##### This command is used to search for files within a specific directory and perform subsequent operations.
+
+### Command:grep
+##### This command is used a word by searching through all the texts in a specific file. Once the grep command finds a match, its print all the lines that contain the specific pattern. This command helps filter through large log files.
+
+
+### Command: df
+#####
