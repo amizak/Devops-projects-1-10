@@ -8,6 +8,8 @@
 ##### I ran this command to update the local package database on my system. this help enable information about the latest versions of packages available and that can be upgraded.
 <img width="776" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/eba8a17a-40d5-43bd-b384-ea8cd55d4c3f">
 
+
+
 ### Command: apt list --upgradable
 ##### I ran this command to list the upgradable packages on my system. it shows the packages for which updated versions are available in the repositories that has been configured.
 <img width="573" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/f6064949-042e-43b6-a101-cd6e7dd9ee10">
@@ -21,6 +23,8 @@
 ### Command: ls
 ##### The ls command lists files and directories within a system. Running it without a flag will show the current working directory's content. To see other directories' content, i used ls followed by the desired path.
 <img width="350" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/c2f378a8-7999-4b9a-89a1-dc2e1f99ae1f">
+<img width="843" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/46bfd0bf-2edd-4a04-9c04-b44079a8a966">
+
 
 
 ##### Using ls with the option -R lists all the files in the subdirectories.
