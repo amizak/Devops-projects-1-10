@@ -75,16 +75,21 @@
 ### Command: mv
 ##### The primary use of the mv command is to move and rename files and directories. Additionally, it doesn't produce an output upon execution. The mv command can also be used to rename a file.
 ##### I ran it followed by the file name and destination directory.
+<img width="506" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/cc526282-b5f9-40f4-8c4e-acd6cb125bfe">
 
 ##### I ran it to rename a file by running th ecommand followed by the old_file_name and the new_file_name.
+<img width="497" alt="Screenshot 2024-01-16 084547" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/e215b541-3abf-467f-bb0d-5f1415cbb8ec">
 
 ### Command: mkdir
 ##### This command is used to create one or multiple directories at once and set permissions for each of them. The user executing this command must have priviledge to make a new folder in the parent directory, or they may recieve a permission denied error.
 ##### I ran the command mkdir followed by the name of the new directory i created.
+<img width="514" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/f653f1c7-a13d-4f74-9e2f-e16f9beda9d1">
 
 ##### To create a new directory inside the one that is already created. I ran the mkdir with the old_directory/new_directory.
 
-##### To create a directory between two existing folders. I ran the mkdir command followed by the option -p in the format mkdir -p Dir_1/Dir_2/Dir_3.
+##### To create a directory between two existing folders. I ran the mkdir command followed by the option -p in the format mkdir -p Process/Registration.
+<img width="536" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/da7e7866-f0a5-4063-b4d4-454eb8cb5007">
+
 
 ##### To create a directory with full read,write, and execute permissions for all users. I ran the mkdir command followed by the option -m in the format mkdir -m777 Directory_name.
 
@@ -93,16 +98,22 @@
 ##### To delete an empty directory, i ran the rmdir command rmdir followed by the name of the empty directory.
 
 ##### To Delete an empty directory and sub_directory. I ran the rmdir command followed by the option -p in the format rmdir -p directory/sub_directory.
+<img width="544" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/4a314628-d956-404d-b771-dadb63f3de7e">
 
+### Command: touch
+##### This command is used to create an empty file if it does not exist. It is also used to update the access and modification timestamps of a file or multiple files.
+<img width="872" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/73c2afb9-a4b0-43f4-922b-a1dee20589ae">
 
 ### Command: rm
 ##### This command is used to delete files within a directory. However the user this command has to have write permissions.
 ##### To remove a file i ran the rm command followed by the name of the file.
+<img width="791" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/67e9d707-f339-4b8d-9d1e-f1c3ce864bd5">
+<img width="826" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/9ec5bbca-3d03-4991-a7d5-d298175eb081">
+<img width="421" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/6de6a2f4-78db-4bcc-809c-cf49ab996f9a">
 
 ##### To remove multiple files. I ran the rm command followed by the file names.
+<img width="758" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/01e331f5-2705-4612-9e40-553bb772dfde">
 
-### Command: touch
-##### This command is used to create an empty file if it does not exist. It is also used to update the access and modification timestamps of a file or multiple files.
 
 ### Command: locate
 ##### This command is used to find the location of a file or directory ib the database. Adding the -i argument will turn off case sensitivity, so you can search for a file even if you do not remember its exact name.
