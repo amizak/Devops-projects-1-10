@@ -116,21 +116,23 @@
 
 
 ### Command: locate
-##### This command is used to find the location of a file or directory ib the database. Adding the -i argument will turn off case sensitivity, so you can search for a file even if you do not remember its exact name.
+##### This command is used to find the location of a file or directory on the database. Adding the -i argument will turn off case sensitivity, so you can search for a file even if you do not remember its exact name.
 <img width="627" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/2e68e0df-7616-408c-87b1-023606671fb1">
+
+##### The command locate relies on a pre-built of files, which makes it faster than some other methods of searching and because of this, the locate command might not be able to find files that have recently or files in the directory that the system has not indexed yet. To update the index we use the updatedb command. 
 
 
 ### Command: find
-##### This command is used to search for files within a specific directory and perform subsequent operations.
+##### This command is used to search for files within a specific directory also directories in a directory hierachy based on various criteria and perform subsequent operations. This command can be used to search for files by their name, type also files that have been modified within the last n days, files that are larger than a specified size.
 
 ### 
 
 ### Command:grep
-##### This command is used a word by searching through all the texts in a specific file. Once the grep command finds a match, its print all the lines that contain the specific pattern. This command helps filter through large log files.
+##### This command is used to search for a text by searching through all the texts in a specific file. Once the grep command finds a match, its print all the lines that contain the specific pattern. This command helps filter through large log files.
 
 
 ### Command: df
-##### This command is used to report the system's disk space usage, shown in percentage and kilobyte. Adding the argument -h will enable you see the current directory's system disk space usage in a human readable format.
+##### This command is used to report the system's disk space usage, it is shown in percentage and kilobyte. Adding the argument -h will enable you see the current directory's system disk space usage in a human readable format.
 
 ### Command: du
 ##### This command allows you check how much space a file or a directory takes up. This allows you identify the part of the system that uses the storage excessively. Adding the flag -s shows you the total size pf a specified folder and -h informs the last modification date of the displayed folders and files.
@@ -139,18 +141,18 @@
 ##### This command is used to view the first ten lines of a text. Adding an option lets you change the number of lines shown. the head command is also used to output piped data to the CLI.
 
 ### Command: tail
-##### This command displays the last few lines of a file. it allows users to check whether a file has new data or to read error messages. By default, this command the last 10 lines of a file but you can adjust the number of lines by using the option -n.
+##### This command displays the last few lines of a file. it allows users to check whether a file has new data or to read error messages. By default, running this command will show the last 10 lines of a file but you can adjust the number of lines by using the option -n.
 
 
 ### Command: diff
-##### This command is used to compare the context of 2 text files and display the differences between them. it is useful to help identify the changes between different version of a file. Developers often use the diff command to alter a program instead of rewriting the entire source code.
+##### This command is used to compare the context of 2 text files and display the differences between them. It is useful to help identify the changes between different version of a file. Developers often use the diff command to alter a program instead of rewriting the entire source code.
 
 ### Command: tar
-##### This command is used to create, view and manipulate archive files. The tar command archives multiple files into a tar file- a common Linux format similar to ZIP, with optional compression.
+##### This command is used to create, view and manipulate archive files. The tar command archives multiple files into a tar file which is a common Linux format similar to ZIP, with optional compression.
 
 ## File Permissions and ownership
 ### Command:chmod
-##### This command isused to modify a file or directory's read, write,and execute permissions. In Linux, each file is associated with three user classes - owner, gorup member, and others.
+##### This command is used to modify a file or directory's read, write,and execute permissions. In Linux, each file is associated with three user classes - owner, group member, and others.
 
 ### Command:Chown
 ##### This command lets you change the ownership of file, directory, or symbolic link to a specified username.
@@ -159,10 +161,10 @@
 ##### A job is a process that the shell starts. The jobs command will display all the running processes along with their statuses. Remember that this command is only available in csh, bash,tcsh and ksh shells.
 
 ### Command: kill
-##### This command is used terminate an unresponsive program manually. it will signal misbehaving applications and instruct them to close their processes. To kill a program, you must know its processs identification number PID. if you don't know the PID, if you don't know the PID, run the following command. command: ps ux after knowing what signal to use and the program 's PID, enter the kill signal.
+##### This command is used terminate an unresponsive program manually. it will signal misbehaving applications and instruct them to close their processes. To kill a program, you must know its processs identification number PID. If you don't know the PID, If you don't know the PID, run the following command. command: ps ux after knowing what signal to use and the program 's PID, enter the kill signal.
 
 ### Command:ping
-##### This command is one of the most used vbasic Linux commands for checking whether a network or a server is reachable, it is used to troubleshoot various connectivity issues.
+##### This command is one of the most used basic Linux commands for checking whether a network or a server is reachable, it is used to troubleshoot various connectivity issues.
 
 
 ### Command:wget
