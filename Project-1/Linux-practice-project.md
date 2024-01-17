@@ -117,6 +117,10 @@
 
 ### Command: locate
 ##### This command is used to find the location of a file or directory on the database. Adding the -i argument will turn off case sensitivity, so you can search for a file even if you do not remember its exact name.
+
+<img width="421" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/d306680b-ed6a-4cff-9933-cb46637dda37">
+
+
 <img width="627" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/2e68e0df-7616-408c-87b1-023606671fb1">
 
 ##### The command locate relies on a pre-built of files, which makes it faster than some other methods of searching and because of this, the locate command might not be able to find files that have recently or files in the directory that the system has not indexed yet. To update the index we use the updatedb command. 
@@ -125,7 +129,11 @@
 ### Command: find
 ##### This command is used to search for files within a specific directory also directories in a directory hierachy based on various criteria and perform subsequent operations. This command can be used to search for files by their name, type also files that have been modified within the last n days, files that are larger than a specified size.
 
-### 
+<img width="403" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/38c14e06-95af-477e-a88c-6105c93a1c96">
+<img width="596" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/fe4d35ce-747c-4d2a-9678-18743469ba37">
+<img width="520" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/c0ff1862-284f-4884-800e-b08e87357ec5">
+<img width="479" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/8133f9e0-a801-4fed-8610-faf0f1f92fe7">
+<img width="584" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/b7f3eb43-a889-4cf6-9a82-ee6f25c5b04d">
 
 ### Command:grep
 ##### This command is used to search for a text by searching through all the texts in a specific file. Once the grep command finds a match, its print all the lines that contain the specific pattern. This command helps filter through large log files.
