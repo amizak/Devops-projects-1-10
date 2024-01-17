@@ -141,19 +141,27 @@
 
 ### Command:grep
 ##### This command is used to search for a text by searching through all the texts in a specific file. Once the grep command finds a match, its print all the lines that contain the specific pattern. This command helps filter through large log files.
+<img width="498" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/dc661402-eed7-4196-a4f6-4d9993bac786">
+
 
 
 ### Command: df
 ##### This command is used to report the system's disk space usage, it is shown in percentage and kilobyte. Adding the argument -h will enable you see the current directory's system disk space usage in a human readable format.
+<img width="492" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/56f27c71-00a9-4c8b-a64b-2b61b3f81a7e">
+
 
 ### Command: du
 ##### This command allows you check how much space a file or a directory takes up. This allows you identify the part of the system that uses the storage excessively. Adding the flag -s shows you the total size pf a specified folder and -h informs the last modification date of the displayed folders and files.
 
 ### Command: head
 ##### This command is used to view the first ten lines of a text. Adding an option lets you change the number of lines shown. the head command is also used to output piped data to the CLI.
+<img width="710" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/7af10a16-c66b-4e82-b121-993802393afb">
+
 
 ### Command: tail
 ##### This command displays the last few lines of a file. it allows users to check whether a file has new data or to read error messages. By default, running this command will show the last 10 lines of a file but you can adjust the number of lines by using the option -n.
+<img width="714" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/68a8c7be-2d3c-4aa6-8b4e-a8231efdf6a4">
+
 
 
 ### Command: diff
@@ -161,10 +169,15 @@
 
 ### Command: tar
 ##### This command is used to create, view and manipulate archive files. The tar command archives multiple files into a tar file which is a common Linux format similar to ZIP, with optional compression.
+<img width="662" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/b30f3b53-08f3-4dad-829d-e5234eb382d2">
+
 
 ## File Permissions and ownership
 ### Command:chmod
 ##### This command is used to modify a file or directory's read, write,and execute permissions. In Linux, each file is associated with three user classes - owner, group member, and others.
+
+<img width="515" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/a47500ca-d441-49a6-a2bf-88da4fd323e0">
+
 
 ### Command:Chown
 ##### This command lets you change the ownership of file, directory, or symbolic link to a specified username.
