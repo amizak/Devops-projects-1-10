@@ -147,5 +147,14 @@
 ##### A job is a process that the shell starts. The jobs command will display all the running processes along with their statuses. Remember that this command is only available in csh, bash,tcsh and ksh shells.
 
 ### Command: kill
-##### This command is used terminate an unresponsive program manually. it will signal misbehaving applications and instruct them to close their processes. To kill a program, you must know its processs identification number PID. if you don't know the PID, if you don't know the PID, run the following command.
+##### This command is used terminate an unresponsive program manually. it will signal misbehaving applications and instruct them to close their processes. To kill a program, you must know its processs identification number PID. if you don't know the PID, if you don't know the PID, run the following command. command: ps ux after knowing what signal to use and the program 's PID, enter the kill signal.
 
+### Command:ping
+##### This command is one of the most used vbasic Linux commands for checking whether a network or a server is reachable, it is used to troubleshoot various connectivity issues.
+
+
+### Command:wget
+##### This command lets you download files from the internet using the wget command. it works in the background without hindering other running processes. The wget command retrieves files using HTTP,HTTPS and FTP protocols. It can perform recursive downloads, which transfer website parts by following directory structures and links, creating local versions of the web pages.
+
+### Command:uname
+##### This command is used to print 
