@@ -134,4 +134,7 @@
 ### Command: tar
 ##### This command is used to create, view and manipulate archive files. The tar command archives multiple files into a tar file- a common Linux format similar to ZIP, with optional compression.
 
+## File Permissions and ownership
+### Command:
+
 
