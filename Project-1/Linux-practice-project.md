@@ -130,9 +130,13 @@
 ##### This command is used to search for files within a specific directory also directories in a directory hierachy based on various criteria and perform subsequent operations. This command can be used to search for files by their name, type also files that have been modified within the last n days, files that are larger than a specified size.
 
 <img width="403" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/38c14e06-95af-477e-a88c-6105c93a1c96">
+
 <img width="596" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/fe4d35ce-747c-4d2a-9678-18743469ba37">
+
 <img width="520" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/c0ff1862-284f-4884-800e-b08e87357ec5">
+
 <img width="479" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/8133f9e0-a801-4fed-8610-faf0f1f92fe7">
+
 <img width="584" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/b7f3eb43-a889-4cf6-9a82-ee6f25c5b04d">
 
 ### Command:grep
