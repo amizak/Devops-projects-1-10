@@ -94,6 +94,7 @@
 
 ##### To Delete an empty directory and sub_directory. I ran the rmdir command followed by the option -p in the format rmdir -p directory/sub_directory.
 
+
 ### Command: rm
 ##### This command is used to delete files within a directory. However the user this command has to have write permissions.
 ##### To remove a file i ran the rm command followed by the name of the file.
