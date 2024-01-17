@@ -121,5 +121,17 @@
 ### Command: du
 ##### This command allows you check how much space a file or a directory takes up. This allows you identify the part of the system that uses the storage excessively. Adding the flag -s shows you the total size pf a specified folder and -h informs the last modification date of the displayed folders and files.
 
-###
+### Command: head
+##### This command is used to view the first ten lines of a text. Adding an option lets you change the number of lines shown. the head command is also used to output piped data to the CLI.
+
+### Command: tail
+##### This command displays the last few lines of a file. it allows users to check whether a file has new data or to read error messages. By default, this command the last 10 lines of a file but you can adjust the number of lines by using the option -n.
+
+
+### Command: diff
+##### This command is used to compare the context of 2 text files and display the differences between them. it is useful to help identify the changes between different version of a file. Developers often use the diff command to alter a program instead of rewriting the entire source code.
+
+### Command: tar
+##### This command is used to create, view and manipulate archive files. The tar command archives multiple files into a tar file- a common Linux format similar to ZIP, with optional compression.
+
 
