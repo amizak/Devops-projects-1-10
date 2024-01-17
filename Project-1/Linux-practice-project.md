@@ -137,6 +137,15 @@
 ##### This command is used to create, view and manipulate archive files. The tar command archives multiple files into a tar file- a common Linux format similar to ZIP, with optional compression.
 
 ## File Permissions and ownership
-### Command:
+### Command:chmod
+##### This command isused to modify a file or directory's read, write,and execute permissions. In Linux, each file is associated with three user classes - owner, gorup member, and others.
 
+### Command:Chown
+##### This command lets you change the ownership of file, directory, or symbolic link to a specified username.
+
+### Command: jobs
+##### A job is a process that the shell starts. The jobs command will display all the running processes along with their statuses. Remember that this command is only available in csh, bash,tcsh and ksh shells.
+
+### Command: kill
+##### This command is used terminate an unresponsive program manually. it will signal misbehaving applications and instruct them to close their processes. To kill a program, you must know its processs identification number PID. if you don't know the PID, if you don't know the PID, run the following command.
 
