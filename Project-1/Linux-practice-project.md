@@ -159,4 +159,43 @@
 ### Command:uname
 ##### This command is used to print detailed information about your linux system and hardware. This includes the machine name, operating system, and kernel. 
 
-### Command:
+### Command: top
+##### This command is used to display all the running processes and a dynamic real-time view of the current system. its sums up the resource utilization, from CPU to memory usage. It can also help you identify and terminate a process that may use too many resources.
+
+### Command: history
+##### This command list up to 500 previously executed commands, allowing you to reuse them without re-entering the commands. Only users with sudo privileges can execute this command. 
+
+### Command: man
+##### This command provides a user manual of any command or utility you can run in the terminal, including the name, description and options. It  consists of nine sections: executable programs or shell commands System calls Library calls Games special files File formats and conventions System administration commands Kernel routines Miscellaneous To display the complete manual, enter:
+
+### Command:echo
+##### This command is a built-in utility that displays a line of text or string using the standard output.
+
+### Command: zip, unzip
+##### The zip command is used to compress your files into ZIP file, a universal format commonly used on Linux.it can automatically choose the compression ratio. The zip command is also useful for achiving files and directories and reducing disk usage.
+
+### Command: hostname
+##### This command is used to know the system's hostname. It can be executed with or without an option.
+
+### Command: useradd,userdel
+##### The command useradd is used to create a new account, while the passwd command allows you to add a password. Only those with root privileges or sudo can run the useradd command.
+
+### Command: apt-get
+##### This command is used for Advanced Package Tool libraries. it lets you retrieve information and bundles from authenticated sources to manage, update,remove, and install software and its dependencies. Running the apt-get command requires you to use sudo or root privileges.
+
+
+### Command: nano,vi,jed
+##### Linuz allows users to edit and manages files via a text editor, such as nano, vi, or jed. nano and vi come with the operating system,while jed has to be installed.
+
+### Command: alias, unalias
+##### This command allows you to create a shortcut with the same functionality as a command, file name, or text. When executed, it instructs the shell to replace one string with another.
+
+### Command: su
+##### This command allows you to run a program as a different user. It changes the administrative account in the current log-in session. This command is especially beneficial for accessing the system through SSH or using the GUI display manager when the root user is unavailable.
+
+### Command: htop
+##### This is an interactive program that monitors system resources and server processes in real time. It is available on most Linux distributions, and you can install it using the default package manager. Compared to the top command, htop has many improvements and additional features, such as mouse operation and visual indicators.
+
+### Command: ps
+##### This command produces a snapshot of all running processes in your system. The static results are taken from the virtual files in the /proc file system. Executing the ps command without an option or argument will list the running processes in the shell along with:
+##### The unique process ID the type of the terminal TTY The running time TIME The command that launches the process CMD.
