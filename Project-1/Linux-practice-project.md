@@ -157,4 +157,6 @@
 ##### This command lets you download files from the internet using the wget command. it works in the background without hindering other running processes. The wget command retrieves files using HTTP,HTTPS and FTP protocols. It can perform recursive downloads, which transfer website parts by following directory structures and links, creating local versions of the web pages.
 
 ### Command:uname
-##### This command is used to print 
+##### This command is used to print detailed information about your linux system and hardware. This includes the machine name, operating system, and kernel. 
+
+### Command:
