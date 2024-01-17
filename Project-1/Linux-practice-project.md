@@ -105,6 +105,8 @@
 
 ### Command: locate
 ##### This command is used to find the location of a file or directory ib the database. Adding the -i argument will turn off case sensitivity, so you can search for a file even if you do not remember its exact name.
+<img width="627" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/2e68e0df-7616-408c-87b1-023606671fb1">
+
 
 ### Command: find
 ##### This command is used to search for files within a specific directory and perform subsequent operations.
