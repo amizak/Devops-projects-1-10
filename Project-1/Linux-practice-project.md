@@ -190,8 +190,17 @@
 <img width="521" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/d27992fd-6a7e-4f32-889b-2bc68bba0dc3">
 
  
-### Command:Chown
-##### This command lets you change the ownership of file, directory, or symbolic link to a specified username.
+### Command:Chown an abbreviation of "change owner"
+##### This command lets you change the ownership of file, directory, or symbolic link to a specified username. To change the file to owned by the root user, we run the command: sudo chown root text-file. sudo is a command that lets me execute another command as another user. By default without another user specified, it will execute the second command as a super user.
+##### To verify the change of ownership, enter ls -l command. I ran the chown command to change the Devops/ ownership to root.
+
+<img width="632" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/3bc4f9c5-95d1-4703-83d8-93535e6ec07f">
+
+##### To change both user and group we enter the command: sudo chown root:root text-file.
+<img width="639" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/c8e178df-cfd1-4d42-8d93-e4dea19617f7">
+
+
+
 
 ### Command: jobs
 ##### A job is a process that the shell starts. The jobs command will display all the running processes along with their statuses. Remember that this command is only available in csh, bash,tcsh and ksh shells.
