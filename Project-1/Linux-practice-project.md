@@ -43,16 +43,17 @@
 <img width="414" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/1f9d5fba-49c7-4f7c-a851-4bda3c005a63">
 
 
-### Command: pwd.
+### Command: pwd
 ##### Meaning print current working directory, this command was ran to find the path of the current/present working directory.
 <img width="359" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/451c6846-d2b6-4470-ab2c-7b476d73b08c">
 
 ### Command: cat
-##### The Concatenate command is used to list combine or merge and write file content to the standard output. i ran this command followed by the file i wanted to display on the screen.
+##### The Concatenate command is used to list combine or merge and write file content to the standard output in other words to display the contents of a file in the terminal. i ran this command followed by the file i wanted to display on the screen.
 <img width="742" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/e3a530ac-54ee-4de6-843f-8e8ede69c5c4">
 
 ##### I ran it as tac to display the content of the file in reverse order.
 <img width="730" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/d0dc8bf4-52b6-4e16-9e02-bda96150e0a0">
+
 
 ##### I ran it to merge two files and store the output in another file.
 <img width="854" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/dd2ea284-3037-4f54-a796-ccf13f73b760">
@@ -101,7 +102,7 @@
 <img width="544" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/4a314628-d956-404d-b771-dadb63f3de7e">
 
 ### Command: touch
-##### This command is used to create an empty file if it does not exist. It is also used to update the access and modification timestamps of a file or multiple files. To create a "hidden" file, enter touch ".filename".
+##### This command is used to create an empty file if it does not exist. It is also used to update the access and modification timestamps of a file or multiple files. To create a "hidden" file, enter touch ".filename". Any directory or file that begins with a period character is hidden.
 <img width="872" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/73c2afb9-a4b0-43f4-922b-a1dee20589ae">
 <img width="852" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/ed0ffc1e-622b-4258-aab4-dbcaecc6a31b">
 
