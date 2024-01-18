@@ -185,6 +185,10 @@
 <img width="359" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/0e30cda8-97d5-4b44-a0eb-13e7080a5c14">
 
 ##### To see the permissions of the text file we run the ls -l command against the file or directory. The text file will have the permissions alphabetically displayed. The first character shows whether the file system is a file or directory. - for a file and d for a directory followed by a string of characters which is usually 3 groups of three characters.Each group of characters shows the permissions for user, group and others which corresponds to r for read permission, w for write permission and x for execute permission if any of them is a dash then that permission is denied.
+
+##### I ran the chmod command to give and take execution permission to group users to the Revival_pharm directory.
+<img width="521" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/d27992fd-6a7e-4f32-889b-2bc68bba0dc3">
+
  
 ### Command:Chown
 ##### This command lets you change the ownership of file, directory, or symbolic link to a specified username.
