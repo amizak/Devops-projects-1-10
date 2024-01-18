@@ -116,6 +116,9 @@
 ##### To remove multiple files. I ran the rm command followed by the file names.
 <img width="758" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/01e331f5-2705-4612-9e40-553bb772dfde">
 
+##### It can also be used to empty a directory using an asterisk at the end of the directory after typing in the command as can be seen below:
+<img width="473" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/82f0dfee-0465-4980-98e3-07d2270a5f25">
+
 
 ### Command: locate
 ##### This command is used to find the location of a file or directory on the database. Adding the -i argument will turn off case sensitivity, so you can search for a file even if you do not remember its exact name.
@@ -164,8 +167,6 @@
 ##### This command displays the last few lines of a file. it allows users to check whether a file has new data or to read error messages. By default, running this command will show the last 10 lines of a file but you can adjust the number of lines by using the option -n.
 <img width="714" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/68a8c7be-2d3c-4aa6-8b4e-a8231efdf6a4">
 
-
-
 ### Command: diff
 ##### This command is used to compare the context of 2 text files and display the differences between them. It is useful to help identify the changes between different version of a file. Developers often use the diff command to alter a program instead of rewriting the entire source code.
 
@@ -180,6 +181,8 @@
 
 <img width="515" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/a47500ca-d441-49a6-a2bf-88da4fd323e0">
 
+##### This permissions can be represented in two different formats which are in octal and alphabetical formats. To display this permission in octal format we use the command: stat -c %a file or directory name.
+<img width="359" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/0e30cda8-97d5-4b44-a0eb-13e7080a5c14">
 
 ### Command:Chown
 ##### This command lets you change the ownership of file, directory, or symbolic link to a specified username.
