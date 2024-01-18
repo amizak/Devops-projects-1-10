@@ -101,8 +101,9 @@
 <img width="544" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/4a314628-d956-404d-b771-dadb63f3de7e">
 
 ### Command: touch
-##### This command is used to create an empty file if it does not exist. It is also used to update the access and modification timestamps of a file or multiple files.
+##### This command is used to create an empty file if it does not exist. It is also used to update the access and modification timestamps of a file or multiple files. To create a "hidden" file, enter touch ".filename".
 <img width="872" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/73c2afb9-a4b0-43f4-922b-a1dee20589ae">
+<img width="852" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/ed0ffc1e-622b-4258-aab4-dbcaecc6a31b">
 
 ### Command: rm
 ##### This command is used to delete files within a directory. However the user this command has to have write permissions.
