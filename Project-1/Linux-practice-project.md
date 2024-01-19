@@ -204,25 +204,38 @@
 
 ### Command: jobs
 ##### A job is a process that the shell starts. The jobs command will display all the running processes along with their statuses. Remember that this command is only available in csh, bash,tcsh and ksh shells.
+<img width="338" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/b8df6825-22ff-4788-9951-21f3364509f6">
+
 
 ### Command: kill
 ##### This command is used terminate an unresponsive program manually. it will signal misbehaving applications and instruct them to close their processes. To kill a program, you must know its processs identification number PID. If you don't know the PID, If you don't know the PID, run the following command. command: ps ux after knowing what signal to use and the program 's PID, enter the kill signal.
 
+<img width="751" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/cb5ff5b9-ce0f-47a5-8c8d-ae431850e0a4">
+
 ### Command:ping
 ##### This command is one of the most used basic Linux commands for checking whether a network or a server is reachable, it is used to troubleshoot various connectivity issues.
-
+<img width="677" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/b3a826f9-9405-47f9-8a00-6998a07530eb">
 
 ### Command:wget
 ##### This command lets you download files from the internet using the wget command. it works in the background without hindering other running processes. The wget command retrieves files using HTTP,HTTPS and FTP protocols. It can perform recursive downloads, which transfer website parts by following directory structures and links, creating local versions of the web pages.
+<img width="818" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/162fc408-d924-47e4-8869-8e6745c5cb9c">
 
 ### Command:uname
 ##### This command is used to print detailed information about your linux system and hardware. This includes the machine name, operating system, and kernel. 
+<img width="415" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/cdcf46aa-c0e8-40e7-9822-175b3fc77a05">
+
 
 ### Command: top
 ##### This command is used to display all the running processes and a dynamic real-time view of the current system. its sums up the resource utilization, from CPU to memory usage. It can also help you identify and terminate a process that may use too many resources.
 
+<img width="854" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/09e50ecd-ca1d-47bc-8afb-dbcc4898a796">
+
+
 ### Command: history
 ##### This command list up to 500 previously executed commands, allowing you to reuse them without re-entering the commands. Only users with sudo privileges can execute this command. 
+
+<img width="538" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/cdaded26-e2ec-4add-8569-345afe556970">
+
 
 ### Command: man
 ##### This command provides a user manual of any command or utility you can run in the terminal, including the name, description and options. It  consists of nine sections: executable programs or shell commands System calls Library calls Games special files File formats and conventions System administration commands Kernel routines Miscellaneous To display the complete manual, enter:
