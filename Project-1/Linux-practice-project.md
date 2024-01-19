@@ -93,6 +93,8 @@
 
 
 ##### To create a directory with full read,write, and execute permissions for all users. I ran the mkdir command followed by the option -m in the format mkdir -m777 Directory_name.
+<img width="494" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/d50e5290-40d5-4b54-b71b-b1fde2b1eb0a">
+
 
 ### Command: rmdir
 ##### This command is used to permanently delete an empty directory. However, the user running this command should have sudo priviledges in the parent directory.
