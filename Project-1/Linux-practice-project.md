@@ -176,6 +176,22 @@
 ##### This command is used to create, view and manipulate archive files. The tar command archives multiple files into a tar file which is a common Linux format similar to ZIP, with optional compression.
 <img width="662" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/b30f3b53-08f3-4dad-829d-e5234eb382d2">
 
+### Command: cut
+##### This is a text processor command it allows you cut the output by taking  the input of a command or if you're reading the content of a file and cuts it to desired output.
+
+### Command: awk
+##### This command allows you to list by the columns
+
+### Command: sort
+##### This a text processor command that sorts out the output in an alphabetical order.
+
+### Command: uniq
+##### This is a text processor command that  remove all duplicates in a file
+
+### Command: wc
+##### This is a text processor command that stands for word count. It tells us how many words, letters and lines you have in a file. The command reads either standard input or a list of files and generates: newline count, word count and byte count. you can use the options -l, -w and -c for number of lines, words and bytes.
+<img width="442" alt="image" src="https://github.com/amizak/Devops-projects-1-10/assets/139656919/b134cbc6-2c47-4214-8ada-dd6ddf93c91f">
+
 
 ## File Permissions and ownership
 ### Command:chmod
