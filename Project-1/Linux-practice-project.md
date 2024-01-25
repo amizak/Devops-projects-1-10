@@ -180,7 +180,7 @@
 ##### This is a text processor command it allows you cut the output by taking  the input of a command or if you're reading the content of a file and cuts it to desired output.
 
 ### Command: awk
-##### This command allows you to list by the columns
+##### This is a command or utility/language designed for data extraction . Most of the time it is used to extract fields from a file or from an output. This command allows you to list by the columns.
 
 ### Command: sort
 ##### This a text processor command that sorts out the output in an alphabetical order.
